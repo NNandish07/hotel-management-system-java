@@ -17,17 +17,8 @@ The project allows hotel staff to manage room bookings and guest information.
 
 ## Screenshots
 
-### Main Menu
-![Menu](menu.png)
-
-### Available Rooms
-![Available Rooms](available_rooms.png)
-
-### Check-in
-![Check-in](Check_in.png)
-
-### Search Guest
-![Search Guest](Search_guest_by_name.png)
-
-### Check-out
-![Check-out](Check_out.png)
+![Menu](screenshots/menu.png)
+![Available Rooms](screenshots/available_rooms.png)
+![Check In](screenshots/Check_in.png)
+![Search Guest](screenshots/Search_guest_by_name.png)
+![Check Out](screenshots/Check_out.png)
